@@ -1,2 +1,2 @@
 # Projetos
-atividades de aulas e afins
+atividades de aulas
